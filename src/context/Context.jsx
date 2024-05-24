@@ -42,29 +42,44 @@ const ContextProvider=(props)=>{
         
        
          let responseArray= response.split("**");
+        //  let newEven=[];
+        //  let newOdd=[];
+        //  let newRes=[];
+        //  for(let i=0;i<responseArray.length;i++)
+        //          {
+        //             if(i===0 || i%2 !== 1){
+        //                 newEven.push(responseArray[i]);
+        //              }
+        //              else{
+        //                 newOdd.push(responseArray[i]);
+        //             }}
+        // let newOddBold=newOdd.map((x)=>{
+        //     return <b> {x} </b>
+        // })
+        // for(let i=0;i<responseArray.length;i++)
+        //     {
+        //        if(i===0 || i%2 !== 1){
+        //            newRes[i]=newEven.shift();
+        //         }
+        //         else{
+        //             newRes[i]=newOddBold.shift();
+        //         }}
+
+        //    let newResponse=newRes.join(" ");
+
+        //     let newRes2=newResponse.split("*").map((newLine)=>{
+        //         return <p> {newLine} </p>})
+
          let newResponse="";
-         
-        
+
          for(let i=0;i<responseArray.length;i++)
              {
                 if(i===0 || i%2 !== 1){
-                    
-                     newResponse+=responseArray[i];
+                    newResponse+=responseArray[i];
                  }
                  else{
-                //     responseArray.map((x)=>{
-                //         if(i%2!==0){
-                //             return {newResponse}={newResponse} + <strong>{responseArray[i]}</strong>
-                //         }
-                        
-                //  })
-                   
-                newResponse+=responseArray[i];
-                    
-                    
-                   
-
-           }}
+                    newResponse+=responseArray[i];
+                }}
            
             let newRes2=newResponse.split("*").map((newLine)=>{
                 return <p> {newLine} </p>
