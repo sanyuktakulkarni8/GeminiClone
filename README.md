@@ -64,7 +64,8 @@ Entering a Search Prompt
 
 <h2> This is how the UI looks like </h2>
 <img src="https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c"/>
-
+<hr>
+<h2> tap to explore the project</h2>
 <a href="https://gemini-clone-ten-gamma.vercel.app/">VIEW PROJECT</a>
 
 
