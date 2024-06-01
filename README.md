@@ -10,7 +10,7 @@ This project is a clone of the Gemini platform, developed using React.js. It lev
 <ul>
 <li>Functionality: Allows users to enter prompts and search queries.</li>
 <li>Integration: Utilizes Google's external API to fetch and display relevant search results in real-time.</li>
-<li>User Interaction: Easy-to-use input field where users can type their queries and immediately see the results displayed on the main screen.</li>
+<li>User Interaction: Easy-to-use input field where users can type their queries and immediately see the results displayed on the main screen.</li></ul>
 </li>
 
 <li>Expandable Sidebar
@@ -61,10 +61,9 @@ Entering a Search Prompt
 </li>
 <ol>
 
-  
-#You can explore the project  through this link.
+<h5>This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.</h5>
 
-<h2>This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.<h2>
+<h2> here is how the UI looks like </h2>![Screenshot (114)](https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c)
 
-<h2>here is how the UI looks like </h2>
-![Uploading Screenshot (114).png…]()
+
+
