@@ -14,50 +14,57 @@ This project is a clone of the Gemini platform, developed using React.js. It lev
 </li>
 
 <li>Expandable Sidebar
+<ul>
 
-Previous Prompts: Users can view their previous search prompts, enabling quick access to past searches without retyping.
-New Chat Button: Clears the ongoing prompt and provides a fresh input interface for new searches, enhancing user experience by simplifying the process of starting a new query.
-
+<li>Previous Prompts: Users can view their previous search prompts, enabling quick access to past searches without retyping.</li>
+<li>New Chat Button: Clears the ongoing prompt and provides a fresh input interface for new searches, enhancing user experience by simplifying the process of starting a new query.</li>
+</ul>
 </li>
 
 
 <li>User Interface (UI)
-
-
-Main Screen: Displays the search results fetched from the API in a clean and organized manner.
-Sidebar: Expandable and collapsible, providing easy access to additional functionalities without cluttering the main interface.
-Responsive Design: Ensures the application is usable on various devices, offering a consistent experience across desktops, tablets, and smartphones.
+<ul>
+<li>Main Screen: Displays the search results fetched from the API in a clean and organized manner.</li>
+<li>Sidebar: Expandable and collapsible, providing easy access to additional functionalities without cluttering the main interface.</li>
+<li>Responsive Design: Ensures the application is usable on various devices, offering a consistent experience across desktops, tablets, and smartphones.</li>
+<ul>
 </li>
 </ol>
-#Technical Details
-React.js: The application is built using React.js, ensuring a robust and scalable frontend.
-Google API Integration: The search functionality is powered by an external API provided by Google, ensuring accurate and up-to-date results.
-State Management: Efficient state management to handle user inputs, search results, and sidebar interactions smoothly.
-Usage
+
+  
+<h2>Technical Details</h2>
+<ul>
+<li>React.js: The application is built using React.js, ensuring a robust and scalable frontend.</li>
+<li>Google API Integration: The search functionality is powered by an external API provided by Google, ensuring accurate and up-to-date results.</li>
+<li>State Management: Efficient state management to handle user inputs, search results, and sidebar interactions smoothly.</li>
+</ul>
+  
+<h2>Usage</h2>
+<ol>
+<li>
 Entering a Search Prompt
+<ul>
 
-Users can type any query into the input box located at the top of the main interface.
-Upon pressing enter, the search results are fetched from the Google API and displayed on the main screen.
-Viewing Previous Prompts
+<li>Users can type any query into the input box located at the top of the main interface.</li>
+<li>Upon pressing enter, the search results are fetched from the Google API and displayed on the main screen.</li> </ul></li>
 
-By expanding the sidebar, users can see a list of their previous search prompts.
-This feature helps in quickly revisiting past queries without needing to remember or retype them.
-Clearing the Prompt
+<li>Viewing Previous Prompts
+<ul>
+<li>By expanding the sidebar, users can see a list of their previous search prompts.</li>
+<li>This feature helps in quickly revisiting past queries without needing to remember or retype them.</li><ul></li>
 
-The "New Chat" button on the sidebar allows users to clear the current prompt.
-This resets the input box, enabling users to start a new search effortlessly.
-You can explore the project and its user interface through this link.
+<li>Clearing the Prompt
+<ul>
 
-This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.
+<li>The "New Chat" button on the sidebar allows users to clear the current prompt.</li>
+<li>This resets the input box, enabling users to start a new search effortlessly.</li></ul>
+</li>
+<ol>
 
+  
+#You can explore the project  through this link.
 
+<h2>This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.<h2>
 
-
-
-
-
-
-
-
-ChatGPT can 
+<h2>here is how the UI looks like </h2>
 ![Uploading Screenshot (114).png…]()
