@@ -60,12 +60,11 @@ Entering a Search Prompt
 <li>This resets the input box, enabling users to start a new search effortlessly.</li></ul></li>
 <ol>
 
-<h5>This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.</h5>
 
 <h2> This is how the UI looks like </h2>
 <img src="https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c"/>
 <hr>
-<h2> tap to explore the project</h2>
+<h2> Tap to explore the project</h2>
 <a href="https://gemini-clone-ten-gamma.vercel.app/">VIEW PROJECT</a>
 
 
