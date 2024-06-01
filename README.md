@@ -62,8 +62,12 @@ Entering a Search Prompt
 
 <h5>This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.</h5>
 
-<h2> here is how the UI looks like </h2>
-![Screenshot (114)](https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c)
+<h2> This is how the UI looks like </h2>
+<img src="https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c"/>
+
+<a href="https://gemini-clone-ten-gamma.vercel.app/">VIEW PROJECT</a>
+
+
 
 
 
