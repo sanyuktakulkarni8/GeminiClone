@@ -51,19 +51,19 @@ Entering a Search Prompt
 <li>Viewing Previous Prompts
 <ul>
 <li>By expanding the sidebar, users can see a list of their previous search prompts.</li>
-<li>This feature helps in quickly revisiting past queries without needing to remember or retype them.</li><ul></li>
+<li>This feature helps in quickly revisiting past queries without needing to remember or retype them.</li></ul></li>
 
 <li>Clearing the Prompt
 <ul>
 
 <li>The "New Chat" button on the sidebar allows users to clear the current prompt.</li>
-<li>This resets the input box, enabling users to start a new search effortlessly.</li></ul>
-</li>
+<li>This resets the input box, enabling users to start a new search effortlessly.</li></ul></li>
 <ol>
 
 <h5>This project demonstrates a comprehensive implementation of a search interface with enhanced usability features, making it a practical tool for users seeking a streamlined search experience.</h5>
 
-<h2> here is how the UI looks like </h2>![Screenshot (114)](https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c)
+<h2> here is how the UI looks like </h2>
+![Screenshot (114)](https://github.com/sanyuktakulkarni8/GeminiClone/assets/114467272/10c3c7b0-a985-40d5-aba2-2b81c089169c)
 
 
 
